@@ -1,0 +1,8 @@
+//
+// Created by Luca Begatti on 03/12/2025.
+//
+
+#ifndef QUANTLIB_PROFITCALCULATOR_H
+#define QUANTLIB_PROFITCALCULATOR_H
+
+#endif // QUANTLIB_PROFITCALCULATOR_H
